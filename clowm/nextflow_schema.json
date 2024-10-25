@@ -105,7 +105,7 @@
                 "out_dir": {
                     "type": "string",
                     "default": "output",
-                    "format": "directory-path",
+                    "format": "path",
                     "description": "Directory for output of all workflow results."
                 }
             }
