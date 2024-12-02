@@ -1,0 +1,12 @@
+{
+  "inputParameters": [
+    "fastq"
+  ],
+  "outputParameters": [
+      "out_dir"
+  ],
+    "exampleParameters": {
+      "fastq": "s3://workflow-exampledata/epi2me-ont-artic/fastq", 	
+      "sample_sheet": "s3://workflow-exampledata/epi2me-ont-artic/sample_sheet.csv"
+  }
+}
