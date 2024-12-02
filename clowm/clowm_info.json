@@ -6,7 +6,7 @@
       "out_dir"
   ],
     "exampleParameters": {
-      "fastq": "s3://workflow-exampledata/epi2me-ont-artic/fastq", 	
-      "sample_sheet": "s3://workflow-exampledata/epi2me-ont-artic/sample_sheet.csv"
+      "fastq": "s3://workflow-exampledata/example1/epi2me-ont-artic/fastq", 	
+      "sample_sheet": "s3://workflow-exampledata/example1/epi2me-ont-artic/sample_sheet.csv"
   }
 }
